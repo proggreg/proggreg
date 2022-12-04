@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my personal website.
+- 🔭 I’m currently working on my personal website. [Link proggreg.com](https://proggreg.com) 
 - 🌱 I’m currently learning Vue.js 
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
