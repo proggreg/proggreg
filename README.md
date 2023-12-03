@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my personal website. <!-- TODO add link --> 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning React & Typescript
 - 🚀 I like to use Nuxt 3
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
