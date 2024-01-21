@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my [personal website](gregfield.dev) and [Tickup](https://github.com/proggreg/todo-nuxt)
+- 🔭 I’m currently working on my [personal website](https://gregfield.dev) and [Tickup](https://github.com/proggreg/todo-nuxt)
 - 🌱 I’m currently learning React & Typescript
 - 🚀 I like to use Nuxt 3
 <!--- 👯 I’m looking to collaborate on ... 
