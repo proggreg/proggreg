@@ -1,10 +1,17 @@
-### Hi there 👋
+### Hi There 👋
+
+I'm Greg a Web Developer and Tech Enthusiast. <br>
+I got into coding through studying Music Techology where I learnt how to create audio plugins in C++ using the JUCE Library.
+Since then I have studied Computer Science and have been coding since. I played around with different programming languages and technologies which have lead me to Web Dev.
+The first Framework I learnt was Vue and have been a fan ever since and now mainly use Nuxt. I have been learning React, Next.js and Remix.js recently and I want to try Solid and laravel at some point.
 
 ![](https://komarev.com/ghpvc/?username=proggreg)
 <!--
 **proggreg/proggreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+
+
 
 - 🔭 I’m currently working on my [personal website](https://gregfield.dev) and [Tickup](https://github.com/proggreg/todo-nuxt)
 - 🌱 I’m currently learning React & Typescript
