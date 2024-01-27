@@ -1,7 +1,7 @@
 ### Hi There 👋
 
 I'm Greg a Web Developer and Tech Enthusiast. <br>
-I got into coding through studying Music Techology where I learnt how to create audio plugins in C++ using the JUCE Library.
+I got into coding through studying Music Technology where I learnt how to create audio plugins in C++ using the JUCE Library.
 Since then I have studied Computer Science and have been coding since. I played around with different programming languages and technologies which have lead me to Web Dev.
 The first Framework I learnt was Vue and have been a fan ever since and now mainly use Nuxt. I have been learning React, Next.js and Remix.js recently and I want to try Solid and laravel at some point.
 
