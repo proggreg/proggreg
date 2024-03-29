@@ -1,9 +1,11 @@
-### Hi There 👋
+### Hi There 👋 I'm Greg
+ Web Developer and Tech Enthusiast.<br>
 
-I'm Greg a Web Developer and Tech Enthusiast. <br>
-I learnt to code through studying Music Technology where I learnt how to create audio plugins in C++ using the JUCE Library.
+I like to use Nuxt / Vue but Next / React / Remix aren't that bad.
+
+<!-- I learnt to code through studying Music Technology where I learnt how to create audio plugins in C++ using the JUCE Library.
 Since then I have studied Computer Science and have been coding since. I played around with different programming languages and technologies which have lead me to Web Dev.
-The first Framework I learnt was Vue and have been a fan ever since and now mainly use Nuxt. I have been learning React, Next.js and Remix.js recently and I want to try Solid and laravel at some point.
+The first Framework I learnt was Vue and have been a fan ever since and now mainly use Nuxt. I have been learning React, Next.js and Remix.js recently and I want to try Solid and laravel at some point. -->
 
 ![](https://komarev.com/ghpvc/?username=proggreg)
 <!--
@@ -14,9 +16,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on my [personal website](https://gregfield.dev) and [Tickup](https://github.com/proggreg/todo-nuxt)
-- 🌱 I’m currently learning React & Typescript
+<!--- - 🌱 I’m currently learning React & Typescript
 - 🚀 I like to use Nuxt 3
-<!--- 👯 I’m looking to collaborate on ... 
+ 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
